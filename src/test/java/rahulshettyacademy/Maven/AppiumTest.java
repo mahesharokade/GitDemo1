@@ -21,4 +21,10 @@ public class AppiumTest {
 	{
 		System.out.println("Iosa111pp");
 	}
+	//done by gitdemo1
+	@Test
+	public void Iosapp2()
+	{
+		System.out.println("Iosa111pp");
+	}
 }
