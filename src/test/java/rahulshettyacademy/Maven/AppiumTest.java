@@ -9,6 +9,7 @@ public class AppiumTest {
 	@Test
 	public void nativeappium() {
 		System.out.println("nativeappium");
+		System.out.println("appium");
 	}
 	@Test
 	public void Iosapp()

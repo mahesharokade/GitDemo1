@@ -10,6 +10,12 @@ public class RestassuredTest {
 		System.out.println("postjira");//done by maven
 		System.out.println("postjira");
 		System.out.println("postjira");
+		//fff
+				//ddd
+				//sss
+				System.out.println("postjira1");
+				System.out.println("postjira2");
+				System.out.println("postjira3");
 	}
 	@Test
 	public void delettwitter()
