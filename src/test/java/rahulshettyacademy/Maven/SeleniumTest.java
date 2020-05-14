@@ -13,4 +13,10 @@ public class SeleniumTest {
 	{
 		System.out.println("elemntui");
 	}
+	@Test
+	public void elemn1tui()
+	{
+		System.out.println("elemntaaaui");
+		System.out.println("elemntaaaui");
+	}
 }

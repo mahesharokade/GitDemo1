@@ -22,4 +22,9 @@ public class RestassuredTest {
 	{
 		System.out.println("delettwitter");
 	}
+	@Test
+	public void delettwitter1()
+	{
+		System.out.println("delet11111twitter");
+	}
 }
